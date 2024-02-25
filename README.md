@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lourenço Calhau</h1>
 <h3 align="center">A Computer Science and Engineering student in Portugal</h3>
 
-- 🔭 I’m currently working on [my Python Expense Tracker](https://github.com/lourenco-calhau/Simple-Java-Calculator)
+- 🔭 I’m currently working on [my Python Expense Tracker](https://github.com/lourenco-calhau/Python-Expense-Tracker)
 
 - 🌱 I’m currently learning **Java, Python, SQL**
 
