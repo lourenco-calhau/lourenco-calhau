@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my Python Expense Tracker](https://github.com/lourenco-calhau/Python-Expense-Tracker)
 
-- 🌱 I’m currently learning **Java, Python, SQL**
+- 🌱 I’m currently learning **Java, Python, SQL, OCAML**
 
 - 📫 How to reach me **lourencocalhau1@gmail.com**
 
