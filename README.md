@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lourenço Calhau</h1>
 <h3 align="center">A Computer Science and Engineering student in Portugal</h3>
 
-- 🔭 I’m currently working on [my Python Expense Tracker](https://github.com/lourenco-calhau/Python-Expense-Tracker)
+- 🔭 I’m not building any project at the moment, as I am focused on my classes assignments.
 
-- 🌱 I’m currently learning **Java, Python, SQL, OCAML**
+- 🌱 I’m currently learning **Java, Python, JavaScript (WebGL)**
 
 - 📫 How to reach me **lourencocalhau1@gmail.com**
 
